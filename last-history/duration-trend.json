@@ -1,3 +1,6 @@
 [ {
+  "buildOrder" : 5,
+  "reportUrl" : "https://eszterveress.github.io/selenium-py-peldatar/5/",
+  "reportName" : "Allure Report with history",
   "data" : { }
 } ]
