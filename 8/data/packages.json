@@ -4,12 +4,12 @@
     "name" : "testproject.test_mymath",
     "children" : [ {
       "name" : "test_add_positive",
-      "uid" : "850bee8834eee7e6",
+      "uid" : "6628d631decbc2fc",
       "parentUid" : "1c238452bcd44297fbab35214e4bb0b7",
       "status" : "passed",
       "time" : {
-        "start" : 1625231475250,
-        "stop" : 1625231475250,
+        "start" : 1625231842911,
+        "stop" : 1625231842911,
         "duration" : 0
       },
       "flaky" : false,
@@ -17,38 +17,38 @@
       "parameters" : [ ]
     }, {
       "name" : "test_add_zero",
-      "uid" : "99c1530803177340",
+      "uid" : "30e3ccf83f77eb88",
       "parentUid" : "1c238452bcd44297fbab35214e4bb0b7",
       "status" : "passed",
       "time" : {
-        "start" : 1625231475262,
-        "stop" : 1625231475262,
-        "duration" : 0
+        "start" : 1625231842913,
+        "stop" : 1625231842914,
+        "duration" : 1
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "test_add_negative",
-      "uid" : "147605b9a628901e",
+      "uid" : "339d0f8b1a271c5b",
       "parentUid" : "1c238452bcd44297fbab35214e4bb0b7",
       "status" : "passed",
       "time" : {
-        "start" : 1625231475264,
-        "stop" : 1625231475264,
-        "duration" : 0
+        "start" : 1625231842915,
+        "stop" : 1625231842916,
+        "duration" : 1
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "test_add_string__expect_exception",
-      "uid" : "8b53e07b9ee5ec23",
+      "uid" : "cbcc6ffa6f8f6acb",
       "parentUid" : "1c238452bcd44297fbab35214e4bb0b7",
       "status" : "passed",
       "time" : {
-        "start" : 1625231475265,
-        "stop" : 1625231475265,
+        "start" : 1625231842917,
+        "stop" : 1625231842917,
         "duration" : 0
       },
       "flaky" : false,
