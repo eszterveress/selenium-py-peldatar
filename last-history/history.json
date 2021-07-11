@@ -9,13 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "cbcc6ffa6f8f6acb",
-      "reportUrl" : "https://eszterveress.github.io/selenium-py-peldatar/8//#testresult/cbcc6ffa6f8f6acb",
+      "uid" : "c9662dc719f6d6e5",
+      "reportUrl" : "https://eszterveress.github.io/selenium-py-peldatar/9//#testresult/c9662dc719f6d6e5",
       "status" : "passed",
       "time" : {
-        "start" : 1625231842917,
-        "stop" : 1625231842917,
-        "duration" : 0
+        "start" : 1626032783458,
+        "stop" : 1626032783459,
+        "duration" : 1
       }
     } ]
   },
@@ -29,13 +29,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "339d0f8b1a271c5b",
-      "reportUrl" : "https://eszterveress.github.io/selenium-py-peldatar/8//#testresult/339d0f8b1a271c5b",
+      "uid" : "2998a7af6b82c8bf",
+      "reportUrl" : "https://eszterveress.github.io/selenium-py-peldatar/9//#testresult/2998a7af6b82c8bf",
       "status" : "passed",
       "time" : {
-        "start" : 1625231842915,
-        "stop" : 1625231842916,
-        "duration" : 1
+        "start" : 1626032783457,
+        "stop" : 1626032783457,
+        "duration" : 0
       }
     } ]
   },
@@ -49,13 +49,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "30e3ccf83f77eb88",
-      "reportUrl" : "https://eszterveress.github.io/selenium-py-peldatar/8//#testresult/30e3ccf83f77eb88",
+      "uid" : "a3490b43972d5c0c",
+      "reportUrl" : "https://eszterveress.github.io/selenium-py-peldatar/9//#testresult/a3490b43972d5c0c",
       "status" : "passed",
       "time" : {
-        "start" : 1625231842913,
-        "stop" : 1625231842914,
-        "duration" : 1
+        "start" : 1626032783456,
+        "stop" : 1626032783456,
+        "duration" : 0
       }
     } ]
   },
@@ -69,12 +69,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "6628d631decbc2fc",
-      "reportUrl" : "https://eszterveress.github.io/selenium-py-peldatar/8//#testresult/6628d631decbc2fc",
+      "uid" : "82db7a85bca32c6f",
+      "reportUrl" : "https://eszterveress.github.io/selenium-py-peldatar/9//#testresult/82db7a85bca32c6f",
       "status" : "passed",
       "time" : {
-        "start" : 1625231842911,
-        "stop" : 1625231842911,
+        "start" : 1626032783454,
+        "stop" : 1626032783454,
         "duration" : 0
       }
     } ]
